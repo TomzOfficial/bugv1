@@ -1,4 +1,4 @@
 module.exports = {
-  Token: "8386852207:AAEHxBnRe58vmqiRNp727Ldb6Gy0bwi5cyI",
-  owner: "7592882115"
+  Token: "8426427901:AAFxIj02Q-uq9XyVQh7hk7mQ-HkVY52c3o0",
+  owner: "7744783556"
 };
